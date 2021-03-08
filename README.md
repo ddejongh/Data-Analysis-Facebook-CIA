@@ -1,4 +1,4 @@
-# Data-Analysis-Factbook-CIA
+# Data-Science-SQL-Practice
 
 Factbook CIA analysis implementing SQL into data science projects. 
 
